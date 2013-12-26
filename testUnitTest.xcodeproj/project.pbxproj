@@ -392,6 +392,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Victor Ronin (GEFMXP4VUB)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "testUnitTest/testUnitTest-Prefix.pch";
 				INFOPLIST_FILE = "testUnitTest/testUnitTest-Info.plist";
@@ -405,6 +406,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Victor Ronin (GEFMXP4VUB)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "testUnitTest/testUnitTest-Prefix.pch";
 				INFOPLIST_FILE = "testUnitTest/testUnitTest-Info.plist";
@@ -474,6 +476,7 @@
 				133C5DCE186CC23900074E90 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		133C5DCF186CC23900074E90 /* Build configuration list for PBXNativeTarget "testUnitTestTests" */ = {
 			isa = XCConfigurationList;
@@ -482,6 +485,7 @@
 				133C5DD1186CC23900074E90 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
