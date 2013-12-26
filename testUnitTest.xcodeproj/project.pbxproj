@@ -392,11 +392,12 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Victor Ronin (GEFMXP4VUB)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Victor Ronin (U4K2B9G4F5)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "testUnitTest/testUnitTest-Prefix.pch";
 				INFOPLIST_FILE = "testUnitTest/testUnitTest-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "56EBD086-2421-41C8-B362-9BC79E032572";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -406,11 +407,12 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Victor Ronin (GEFMXP4VUB)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Victor Ronin (U4K2B9G4F5)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "testUnitTest/testUnitTest-Prefix.pch";
 				INFOPLIST_FILE = "testUnitTest/testUnitTest-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "56EBD086-2421-41C8-B362-9BC79E032572";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
